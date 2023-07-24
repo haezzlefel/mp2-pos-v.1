@@ -11,6 +11,9 @@ body{
     min-height: 75vh;
     width: 75%;
 }
+
+    
+
 .container{
     display: flex;
     justify-content: center;
