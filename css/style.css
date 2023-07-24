@@ -36,11 +36,11 @@ body {
     border-radius: 20px;
     width: 60px;
     height: 60px;
-    background:#201ea4;
-    box-shadow:  0 0 0 #201ea4,
-                 0 0 0 #201ea4,
-                  10px 10px 10px #201ea4 inset,
-                  -10px -10px 10px #201ea4 inset;
+    background:#0c0c0c;
+    box-shadow:  0 0 0 #0c0c0c,
+                 0 0 0 #0c0c0c,
+                  10px 10px 10px #0c0c0c inset,
+                  -10px -10px 10px #0c0c0c inset;
     animation: anime 3s cubic-bezier(0.0, 0, 0.0, 0) 1s infinite alternate;
     /* animation-fill-mode: forwards; */
   }
